@@ -32,6 +32,11 @@ button {
     color: rgb(154, 108, 10);
 }
 
+.clear-button {
+    background-color: rgb(228, 203, 158);
+    color: rgb(154, 108, 10);
+}
+
 .deleteButton {
     background-color: rgb(228, 203, 158);
     border: none;
